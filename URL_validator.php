@@ -73,7 +73,7 @@
 			.form{padding:20px;}
 			.form .form-group{padding-bottom:20px;}
 			.form label {display:block;}
-            .button{
+			.button{
 				background-color: #55939c;
 				color:#d0b57e;
 				padding: 10px 15px;
