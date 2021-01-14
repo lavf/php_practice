@@ -65,11 +65,10 @@
                 border: 1px solid #314d82;
                 padding: 20px;
             }
-
-						#footer{
-							text-align: center;
-							font-size: 12px;
-						}
+			#footer{
+				text-align: center;
+				font-size: 12px;
+			}
 
 			.form{padding:20px;}
 			.form .form-group{padding-bottom:20px;}
@@ -115,12 +114,12 @@
 		<h1>The Validator &#128526;</h1>
 		<h4>You don't need people's validation to check your URL. I'm here for you!</h4>
 	</header>
-			<div id="container">
-					<?php if ($msg !== ''):?>
-							<div class="alert <?php echo $msgClass;?>">
-									<?php echo $msg; ?>
-		  				</div>
-					<?php endif; ?>
+		<div id="container">
+			<?php if ($msg !== ''):?>
+				<div class="alert <?php echo $msgClass;?>">
+				<?php echo $msg; ?>
+		  		</div>
+			<?php endif; ?>
 		<form class="form" method="POST" action=" <?php echo $_SERVER['PHP_SELF'];?>">
 
 			<div class="form-group">
