@@ -1,7 +1,7 @@
 # php_practice
 PHP practice and homeworks
 
-### XAMPP v. 3.2.4
+### Software: XAMPP v. 3.2.4
 
 ## The Validator
 URL validator
@@ -16,7 +16,7 @@ Newsletter form for my personal blog grisGrau
 ## nächsTank
 Idea for calculator "Tankstellar" (https://github.com/lavf/tankstellar)
 
-Software: Structorizer v. 3.30-16
+###Software: Structorizer v. 3.30-16
 *Structorizer is a little tool which you can use to create Nassi-Shneiderman Diagrams (NSD).* (https://structorizer.fisch.lu/index.php?include=about)
 
 ![structorizer_naechstank](https://user-images.githubusercontent.com/73216174/107853393-fe045f00-6e15-11eb-8765-efbde6f80676.png)
