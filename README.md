@@ -1,6 +1,8 @@
 # php_practice
 PHP practice and homeworks
 
+### XAMPP v. 3.2.4
+
 ## The Validator
 URL validator
 
