@@ -13,4 +13,12 @@ Newsletter form for my personal blog grisGrau
 
 ![newslettergrisgrau](https://user-images.githubusercontent.com/73216174/107378374-35100300-6aec-11eb-86bf-0f0822eb632d.png)
 
-For educational purposes
+## nächsTank
+Idea for calculator "Tankstellar" (https://github.com/lavf/tankstellar)
+
+Software: Structorizer v. 3.30-16
+*Structorizer is a little tool which you can use to create Nassi-Shneiderman Diagrams (NSD).* (https://structorizer.fisch.lu/index.php?include=about)
+
+![structorizer_naechstank](https://user-images.githubusercontent.com/73216174/107853393-fe045f00-6e15-11eb-8765-efbde6f80676.png)
+
+*For educational purposes*
